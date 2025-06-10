@@ -1,7 +1,7 @@
 # LeetCodeJournal
 Hi, 
 
-This repository is where I will track my Leetcode progress. Thank you for viewing my progress.
+This repository is where I will track my LeetCode progress. 
 
 Sincerely,
 Adam Azam
